@@ -1,6 +1,23 @@
 var rage= rage || {};
 
+// all RIGHT WHO IS TO BLAME FOR THIS??? TELL ME!!!!!
 
+// TELL ME!!!!!!!!!!
+
+
+
+WHO?????
+
+
+JESUS WHEN I FIND WHO IS TO BLAME I SWEAR I WILL KICK THAT LITTLE PUKES NUTS UP TO HIS THROAT!!!!
+
+
+I GOT A PROJECT TO RUN HERE!!!!
+
+QUIT FN AROUND AND GET SOME SHIT DONE!!!!~
+
+
+JESUS!!!!
 rage.runner  = (function() {
 
   
